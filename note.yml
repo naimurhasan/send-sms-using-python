@@ -1,0 +1,10 @@
+# to see the porsts
+  python -m serial.tools.list_ports -v
+#  i found DataCard Modem Device at COM5
+
+# basic english sms solution
+https://web.archive.org/web/20140825120353/http://linux-101.org/script/python-code-sending-sms-messages-usb-connected-mobile-phone
+https://pyserial.readthedocs.io/en/latest/tools.html
+
+# unicode solution
+https://stackoverflow.com/questions/35966897/how-to-send-multipart-unicode-sms-using-python-gsmmodem-library
